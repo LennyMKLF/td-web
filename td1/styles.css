@@ -1,6 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100;200&display=swap');
 
-	li {
+li {
 			font-family: 'Montserrat';
 	text-decoration: none;
 		}
+p
+{
+	font-family: Verdana;
+}
+#trait_dessus
+{
+border-top: 1px solid #000;
+width : 700px;
+} 
